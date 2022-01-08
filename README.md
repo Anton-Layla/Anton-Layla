@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anton Layla
+- 👋 Hi, I’m Anton Layla
 - 👀 I’m interested in fullstack dev and data science 
 - 🌱 I’m currently learning react-native
 - 💞️ I’m looking to collaborate on nothing at the moment
